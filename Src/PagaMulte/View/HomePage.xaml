@@ -3,5 +3,5 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PagaMulte.View.HomePage"
              Padding="15"
-             BackgroundColor="#FFFFFF">
+             BackgroundColor="#FFFFFG">
 </ContentPage>
